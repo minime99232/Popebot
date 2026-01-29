@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'pope Bot',
-  author: '‎',
-  botName: "pope Bot",
-  botOwner: 'pope Bot', // Your name
+  packname:  popebot',
+  author: 'ernest‎',
+  botName: "ernest Bot",
+  botOwner: 'ErnestBot', // Your name
   ownerNumber: '255655675736', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
